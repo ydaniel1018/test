@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat_test</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_commands">Commands</string>
+</resources>
